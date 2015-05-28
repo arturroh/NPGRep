@@ -10,7 +10,7 @@ char *string = "TO JEST LANCUCH ZNAKOW (NAPIS)"
 char *string1 = "to jest lancuch drugi";
 clrscr();
 puts("1) Zamiana lancucha");
-puts("TO JEST LANCUCH ZNAKOW (NAPIS)");
+puts("TO JEST LANasdfasdfradsfCUCH ZNAKOW (NAPIS)");
 puts("na male litery
 \
 n");
