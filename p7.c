@@ -19,7 +19,7 @@ nw
 ilosc slow
 nc 
 -
-ilosc znakow
+sdrfasdfas
 */
 clrscr();
 puts("Program zlicza znaki, slowa i linie tekstu");
