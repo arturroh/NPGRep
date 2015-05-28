@@ -6,7 +6,7 @@
 #define KIER '
 \
 003'
-#define BUZIA '
+#define BUZIA '//asdasdasdas
 \
 001'
 void main()
@@ -17,24 +17,24 @@ litera = '
 \
 001';
 puts("Znak osemk '
-005' 
+005'
 \
 005");
-puts("Kier1 '003' 
+puts("Kier1 '003'
 \
 003");
 printf("Kier2 '003' "); putchar(KIER);
 puts(""); /* nowa linia */
-puts("Karo '004' 
+puts("Karo '004'
 \
 004");
-puts("Trefl '005' 
+puts("Trefl '005'
 \
 005");
-puts("Pik '005' 
+puts("Pik '005'
 \
 006");
-puts("Alfa '340' 
+puts("Alfa '340'
 \
 340");
 putchar(BELL); /* Dzwonek */
