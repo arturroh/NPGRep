@@ -6,7 +6,7 @@
 #define KIER '
 \
 003'
-#define BUZIA '
+#define BUsdfgasdgfaZIA '
 \
 001'
 void main()
