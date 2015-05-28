@@ -16,7 +16,7 @@ clrscr();
 litera = '
 \
 001';
-puts("Znak osemk '
+puts("Znak osemasdfasfk '
 005'
 \
 005");
