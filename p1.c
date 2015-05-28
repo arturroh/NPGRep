@@ -1,6 +1,6 @@
 # include <conio.h>
 # include <stdio.h>
-#define BELLL '
+#define BsELLL '
 \
 007'
 #define KIER '
